@@ -13,7 +13,7 @@ My Project is a comprehensive study on the impact of data masking on the perform
 
 ## Demo Video
 #### Click the Image!!
-[![My Demo!](/assets/img/demoFYP1.png)](https://www.youtube.com)
+[![My Demo!](/assets/img/playbutton.gif)](https://www.youtube.com)
 
 ---
 
