@@ -14,3 +14,9 @@ My Project is a comprehensive study on the impact of data masking on the perform
 ## Demo Video
 #### Click the Image!!
 [![My Demo!](/assets/img/DemoFYP.jpg)](https://www.youtube.com)
+
+---
+
+## Github Repo
+#### Click the Image!!
+[![My Demo!](/assets/img/githubFYP.png)](https://www.github.com)
