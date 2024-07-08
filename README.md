@@ -7,6 +7,8 @@ My Project is a comprehensive study on the impact of data masking on the perform
 
 ## Project Poster
 #### Click the Image to Download!!
-[![My Poster!](/assets/img/FYP.png)](FYP.png)
+<a href="FYP.png" download>
+  <img src="/assets/img/FYP.png" alt="My Poster!" />
+</a>
 
 
